@@ -68,6 +68,11 @@ module.exports = {
         }
       },
       {
+        test:/\.css$/,
+        loader:'style-loader!css-loader!stylus-loader',
+        include: []
+      },
+      {
         test: /\.(woff2?|eot|ttf|otf)(\?.*)?$/,
         loader: 'url-loader',
         options: {

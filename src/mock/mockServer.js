@@ -1,6 +1,6 @@
 import Mock from 'mockjs'
 import HomeData from './shouye_data.json'
-import TopicData from './cateList.json'
+import TopicData from './datatopic.json'
 import NavData from './fenlei_zhuanqu.json'
 
 Mock.mock('/homedata', {
