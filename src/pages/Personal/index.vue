@@ -71,7 +71,7 @@
           width px2rem(300)
           height px2rem(104)
       >.btns
-        padding 0 px2rem(42) 
+        padding 0 px2rem(42)
         >.btn
           margin-bottom px2rem(40)
           text-align center
@@ -101,7 +101,7 @@
         font-size px2rem(28)
         width 100%
         text-align center
-        >i 
+        >i
           font-size px2rem(28)
           margin-right px2rem(16)
           margin-left px2rem(4)
@@ -121,7 +121,7 @@
         color #979797
         padding 0 px2rem(60)
         font-size px2rem(26)
-        >i 
+        >i
           font-size px2rem(26)
         &:last-child
           border-right none
